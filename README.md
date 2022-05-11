@@ -1,4 +1,4 @@
-# stab
+# Business Name Generator
 Business Name Generator
 
 This project aims are creating a business name generator like several tools out there on the internet. e.g. https://howtostartanllc.com/business-name-generator
